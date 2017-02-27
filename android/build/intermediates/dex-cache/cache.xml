@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Shubhangi/launcherReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/Shubhangi/launcherReact/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-2d1089199d42bee140d14f465ba44a16b4a11996.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/launcherReact/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Shubhangi/launcherReact/android/app/build/intermediates/pre-dexed/debug/classes-97662d697bd784ef8de9531abaa087bf38b165ed.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/swiperProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Shubhangi/swiperProject/android/app/build/intermediates/pre-dexed/debug/classes-69a113a29d85766e90aee98650b9d11ddda83031.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/swiperProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/Shubhangi/swiperProject/android/app/build/intermediates/pre-dexed/debug/classes-a95819baac6f2f25db5d1c48b7a5c9274bcf53db.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/Shubhangi/swiperProject/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-b3566acb7fc65b8ca014c1ce6c0704fd742072ae.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/Shubhangi/swiperProject/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-bb6e14f0a9113f27d6ce472face6f23792e9fff8.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/swiperProject/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/Shubhangi/swiperProject/android/app/build/intermediates/pre-dexed/debug/classes-82d2ced4bf8d5d96412dc18c17b86292f9f96b6c.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/swiperProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/Shubhangi/swiperProject/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-f24c6ecc88fd71ce20174919bea45272e7a20c6d.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/Shubhangi/swiperProject/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-949d230d073c8e7e9a746f86d9da8e944b3ff643.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/launcherReact/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d74afead061bfd6dda3c18734ebcf3fe0d84a7c">
+        <dex dex="/Users/Shubhangi/launcherReact/android/app/build/intermediates/pre-dexed/debug/classes-75e0399d7e1a8897ba0ce0d59a7b19a490bfe704.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/swiperProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/Shubhangi/swiperProject/android/app/build/intermediates/pre-dexed/debug/classes-56c52af63d66665ce3de265cbb572847e1ecbf00.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/launcherReact/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/Shubhangi/launcherReact/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-4412ca2977c850036b61fced833a30778a2649a3.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/Shubhangi/swiperProject/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-767007899d69e9d919f64103efdceb09b3654bdc.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/launcherReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/Shubhangi/launcherReact/android/app/build/intermediates/pre-dexed/debug/classes-1e2179ed7de2854087f36f0eeb02fea3e7142692.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/swiperProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/Shubhangi/swiperProject/android/app/build/intermediates/pre-dexed/debug/classes-9ec83b9647b68e67a9d4619cd596ec526f50a483.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/launcherReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/Shubhangi/launcherReact/android/app/build/intermediates/pre-dexed/debug/classes-38f11d73c177595729a8872dab7f9f8a91a7ea37.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/launcherReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/Shubhangi/launcherReact/android/app/build/intermediates/pre-dexed/debug/classes-f671aa8bb36c95060f8e21ebb2151cdb6f93cff8.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/launcherReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/Shubhangi/launcherReact/android/app/build/intermediates/pre-dexed/debug/classes-fdc98d4be5a04fd7d871b0120df2ad5e9d310490.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/launcherReact/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/Shubhangi/launcherReact/android/app/build/intermediates/pre-dexed/debug/classes-6ff79b3ab5ec91b5a1ffc2caa0f1e505bb6412e9.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/swiperProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/Shubhangi/swiperProject/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-103f059b90b7157e8467f4e30ddaeb4b2a52a415.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/launcherReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/Shubhangi/launcherReact/android/app/build/intermediates/pre-dexed/debug/classes-4fccaabbd84946b58b409d2de7c76ab898da3389.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/launcherReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/Shubhangi/launcherReact/android/app/build/intermediates/pre-dexed/debug/classes-c822b8e980b31c586b34c820c0da5762e3792e51.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/launcherReact/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/Shubhangi/launcherReact/android/app/build/intermediates/pre-dexed/debug/classes-07887b08edd872f2a33b461c151047de79c8aca7.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/swiperProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/Shubhangi/swiperProject/android/app/build/intermediates/pre-dexed/debug/classes-b31bc6147db216e8e4b3fff324e975be8ed0feb7.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/swiperProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d74afead061bfd6dda3c18734ebcf3fe0d84a7c">
+        <dex dex="/Users/Shubhangi/swiperProject/android/app/build/intermediates/pre-dexed/debug/classes-2b2028e5a9fa315fc353118320e79d6797c20322.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/launcherReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/Shubhangi/launcherReact/android/app/build/intermediates/pre-dexed/debug/classes-4d100f8fde8986ebfd7519e9753b0490e00f8745.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/Shubhangi/swiperProject/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-89017217982175c666c652642475903a6e00890a.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/swiperProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/Shubhangi/swiperProject/android/app/build/intermediates/pre-dexed/debug/classes-320b01fd87516b2887e8231dbf17ca45aaf41161.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/swiperProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/Shubhangi/swiperProject/android/app/build/intermediates/pre-dexed/debug/classes-29c861c7185722fa097d56d16cc4dc16d2683b3c.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/swiperProject/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/Shubhangi/swiperProject/android/app/build/intermediates/pre-dexed/debug/classes-d792109f6ce9a20a3ad5af7fabe2b0a4719b0a74.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/Shubhangi/swiperProject/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-dccb74b06ff848842cc6e94dfb15449897b5e491.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Shubhangi/swiperProject/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-ff293565ae28c53bcd2ed89977f17a7bbe54c7ea.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/Shubhangi/swiperProject/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-39e3c57e368363b81b2a779fa05302da9d4836b7.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/swiperProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/Shubhangi/swiperProject/android/app/build/intermediates/pre-dexed/debug/classes-698b127cd8410ef5b6bae982af92a7b7f0004081.jar" />
+    </item>
+    <item
+        jar="/Users/Shubhangi/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/Shubhangi/swiperProject/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-7e49e304d7c5488bd24edb30da47bc2608110446.jar" />
+    </item>
+
+</items>
